@@ -61,6 +61,9 @@
     "url": "https://github.com/mhart/aws4.git"
   },
   "license": "MIT",
+  "dependencies": {
+      "querystring-browser": "^1.0.4"
+  },
   "devDependencies": {
     "mocha": "^2.4.5",
     "should": "^8.2.2"
