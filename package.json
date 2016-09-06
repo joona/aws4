@@ -62,7 +62,8 @@
   },
   "license": "MIT",
   "dependencies": {
-      "querystring-browser": "^1.0.4"
+    "crypto-browserify": "^3.11.0",
+    "querystring-browser": "^1.0.4"
   },
   "devDependencies": {
     "mocha": "^2.4.5",
